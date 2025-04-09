@@ -1,0 +1,1 @@
+# Implementa-o-de-Regress-o-Linear-Pura-para-S-ries-Temporais
